@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.js": "/tesla=clone/static/js/main.ccc70ae6.chunk.js",
+    "main.js.map": "/tesla=clone/static/js/main.ccc70ae6.chunk.js.map",
+    "runtime-main.js": "/tesla=clone/static/js/runtime-main.3b4465a4.js",
+    "runtime-main.js.map": "/tesla=clone/static/js/runtime-main.3b4465a4.js.map",
+    "static/js/2.e79f2088.chunk.js": "/tesla=clone/static/js/2.e79f2088.chunk.js",
+    "static/js/2.e79f2088.chunk.js.map": "/tesla=clone/static/js/2.e79f2088.chunk.js.map",
+    "index.html": "/tesla=clone/index.html",
+    "static/js/2.e79f2088.chunk.js.LICENSE.txt": "/tesla=clone/static/js/2.e79f2088.chunk.js.LICENSE.txt",
+    "static/media/Desktop-Accessories.027ada94.jpg": "/tesla=clone/static/media/Desktop-Accessories.027ada94.jpg",
+    "static/media/Desktop-Model3.2fe8f342.jpg": "/tesla=clone/static/media/Desktop-Model3.2fe8f342.jpg",
+    "static/media/Desktop-ModelS.e3d22a07.jpg": "/tesla=clone/static/media/Desktop-ModelS.e3d22a07.jpg",
+    "static/media/Desktop-ModelX.83417303.jpg": "/tesla=clone/static/media/Desktop-ModelX.83417303.jpg",
+    "static/media/Desktop-ModelY.30acb76a.jpg": "/tesla=clone/static/media/Desktop-ModelY.30acb76a.jpg",
+    "static/media/Desktop-SolarPanels.d7d441d7.jpg": "/tesla=clone/static/media/Desktop-SolarPanels.d7d441d7.jpg",
+    "static/media/Desktop-SolarRoof.9eb2e602.jpg": "/tesla=clone/static/media/Desktop-SolarRoof.9eb2e602.jpg",
+    "static/media/Mobile-Accessories.9396e411.jpg": "/tesla=clone/static/media/Mobile-Accessories.9396e411.jpg",
+    "static/media/Mobile-Model3.64b2a4e4.jpg": "/tesla=clone/static/media/Mobile-Model3.64b2a4e4.jpg",
+    "static/media/Mobile-ModelS.0b8c1697.jpg": "/tesla=clone/static/media/Mobile-ModelS.0b8c1697.jpg",
+    "static/media/Mobile-ModelX.50199628.jpg": "/tesla=clone/static/media/Mobile-ModelX.50199628.jpg",
+    "static/media/Mobile-ModelY.52a3f001.jpg": "/tesla=clone/static/media/Mobile-ModelY.52a3f001.jpg",
+    "static/media/Mobile-SolarPanels.927c735c.jpg": "/tesla=clone/static/media/Mobile-SolarPanels.927c735c.jpg",
+    "static/media/Mobile-SolarRoof.b1830f5a.jpg": "/tesla=clone/static/media/Mobile-SolarRoof.b1830f5a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b4465a4.js",
+    "static/js/2.e79f2088.chunk.js",
+    "static/js/main.ccc70ae6.chunk.js"
+  ]
+}
